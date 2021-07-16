@@ -61,7 +61,7 @@ li {
   margin-bottom: 30px;
 }
 
-/*--------------------------------
+/*--------------------------------(
  header
 ---------------------------------*/
 .header {
@@ -70,6 +70,8 @@ li {
   justify-content: center;
   height: 65vh;
   text-align: center;
+  background-image:url("https://user-images.githubusercontent.com/87376681/125975252-0a873d08-5039-4783-97fc-76e67e06088f.png")
+    background-size:cover;
 }
 
 .header-inner {
