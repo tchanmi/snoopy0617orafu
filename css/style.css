@@ -75,7 +75,6 @@ li {
 
 .header-inner {
   padding: 0 40px;
-  background-color:background-color:rgb(209,209,209,0.4);
 }
 
 .header-title {
@@ -86,6 +85,7 @@ li {
   color: white;
   text-align:center;
   text-shadow:black 2px 5px;
+  background-color:background-color:rgb(209,209,209,0.5);
 }
 /*#f5b5d5*/
 
@@ -95,6 +95,7 @@ li {
   font-weigh:bold;
   line-height: 1;
   letter-spacing: .08em;
+  background-color:background-color:rgb(209,209,209,0.5);
   
 }
 
