@@ -94,6 +94,7 @@ li {
   font-weigh:bold;
   line-height: 1;
   letter-spacing: .08em;
+  background-color:rgba(209,209,209,0.5);
 }
 
 header{
