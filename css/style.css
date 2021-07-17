@@ -94,7 +94,8 @@ li {
   font-weigh:bold;
   line-height: 1;
   letter-spacing: .08em;
- background-color:rgb(209,209,209,0.5);
+  text-shadow:black 2px 2px;
+ background-color:rgb(209,209,209,0.6);
 
 }
 
