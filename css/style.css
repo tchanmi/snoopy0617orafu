@@ -96,7 +96,8 @@ li {
   line-height: 1;
   letter-spacing: .08em;
  background-color:rgb(209,209,209,0.5);
-  
+  display-line:inline-block;
+  padding-top:40px;  
 }
 
 header{
